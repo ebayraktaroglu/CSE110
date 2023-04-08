@@ -3,7 +3,21 @@
 
 ## Jump To
 
-LIST WITH SECTION LINKS
+### [About Me](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+
+- [General](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+- [Programming](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+- [Books](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+- [Music](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+- [Cooking/Baking](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+
+### [For Fun Things](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+
+- [Puns]()
+- [Interesting Websites]()
+- [Interesting Quotes]()
+
+### [Lab 1 Task List](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
 
 ## About Me
 
@@ -17,14 +31,11 @@ QUOTING CODE - HOW NOT TO DO CODE (NO COMMENTS)
 
 LIST, ITALICS, IMAGES??
 
-
-## Trumpet
-
-IDK
-
 ### Music
 
 EXTERNAL LINKS AND LIST
+
+Music and acapella and trumpet
 
 ### Cooking/Baking
 
@@ -40,7 +51,7 @@ ITALICS HERE
 
 EXTERNAL LINKS HERE
 
-### Interesting QuoteS
+### Interesting Quotes
 
 QUOTES HERE
 
