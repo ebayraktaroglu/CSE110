@@ -17,13 +17,18 @@ QUOTING CODE - HOW NOT TO DO CODE (NO COMMENTS)
 
 LIST, ITALICS, IMAGES??
 
+
+## Trumpet
+
+IDK
+
 ### Music
 
 EXTERNAL LINKS AND LIST
 
 ### Cooking/Baking
 
-EXTERNAL LINKS??? IMAGES??
+EXTERNAL LINKS??? RELATIVE LINKS??
 
 ## For Fun Things
 
@@ -41,4 +46,15 @@ QUOTES HERE
 
 
 
-SOME SORT OF TASK LIST THING, MAYBE FOR LAB 1
+## Lab 1 Task List
+
+- [] Headings
+- [] Styling Text
+- [] Quoting Text
+- [] Quoting Code
+- [] External Links
+- [] Section Links
+- [] Relative Links
+- [] Ordered Lists
+- [] Unordered Lists
+- [x] Task Lists
