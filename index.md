@@ -35,11 +35,18 @@ EXTERNAL LINKS??? RELATIVE LINKS??
 
 ### Puns
 
-ITALICS HERE
+Here are three fun puns:
+1. What do you call an unintentional pun? A *pun*intentional.
+2. How do chemists greet each other? "Hydroiodic Acid."
+   >! Hydroiodic Acid = HI
+3. What is it called when someone throws a book on the ground? *Litter*ature.
 
-### Interesting Websites
 
-EXTERNAL LINKS HERE
+### Random Interesting Things
+
+- [Crossbreeding Peppers](https://peppergeek.com/how-to-crossbreed-peppers/)
+- [Very Detailed Map of the World from the cartoon Avatar: the Last Airbender](https://external-preview.redd.it/D6COo3YmmcBYv5zwCHMdZO4kUjpczWZjNc-Td7cHH20.jpg?auto=webp&s=96e43204a9d64cee57ed9b0acda8f2e05106c180)
+- [St. Elmo's Fire](https://en.m.wikipedia.org/wiki/St._Elmo%27s_fire)
 
 ### Interesting Quotes
 
@@ -49,12 +56,12 @@ QUOTES HERE
 
 ## Lab 1 Task List
 
-- [ ] Headings
+- [x] Headings
 - [ ] Styling Text
 - [ ] Quoting Text
 - [ ] Quoting Code
 - [ ] External Links
-- [ ] Section Links
+- [x] Section Links
 - [ ] Relative Links
 - [ ] Ordered Lists
 - [ ] Unordered Lists
