@@ -48,13 +48,13 @@ QUOTES HERE
 
 ## Lab 1 Task List
 
-- [] Headings
-- [] Styling Text
-- [] Quoting Text
-- [] Quoting Code
-- [] External Links
-- [] Section Links
-- [] Relative Links
-- [] Ordered Lists
-- [] Unordered Lists
+- [ ] Headings
+- [ ] Styling Text
+- [ ] Quoting Text
+- [ ] Quoting Code
+- [ ] External Links
+- [ ] Section Links
+- [ ] Relative Links
+- [ ] Ordered Lists
+- [ ] Unordered Lists
 - [x] Task Lists
