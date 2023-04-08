@@ -38,9 +38,8 @@ EXTERNAL LINKS??? RELATIVE LINKS??
 Here are three fun puns:
 1. What do you call an unintentional pun? A *pun*intentional.
 2. How do chemists greet each other? "Hydroiodic Acid."
-   >! Hydroiodic Acid = HI
+   - The molecular formula for Hyroidoic Acid is HI.
 3. What is it called when someone throws a book on the ground? *Litter*ature.
-
 
 ### Random Interesting Things
 
@@ -57,12 +56,12 @@ QUOTES HERE
 ## Lab 1 Task List
 
 - [x] Headings
-- [ ] Styling Text
+- [x] Styling Text
 - [ ] Quoting Text
 - [ ] Quoting Code
-- [ ] External Links
+- [x] External Links
 - [x] Section Links
 - [ ] Relative Links
-- [ ] Ordered Lists
+- [x] Ordered Lists
 - [ ] Unordered Lists
 - [x] Task Lists
