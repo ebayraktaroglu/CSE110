@@ -13,6 +13,13 @@
 
 ### General
 
+- Name: Ezgi Bayraktaroglu
+- Age: 19
+- Pronouns: she/her/hers
+- Born in San Diego
+- Parents are from Türkiye
+- Second year computer science major at UCSD in Earl Warren College
+
 ### Programming
 
 QUOTING CODE - HOW NOT TO DO CODE (NO COMMENTS)
@@ -49,7 +56,17 @@ Here are three fun puns:
 
 ### Interesting Quotes
 
-QUOTES HERE
+> A ship in harbor is safe, but that is not what ships are built for.
+
+-*John A. Shedd*
+
+> Fall down seven times, get up eight.
+
+-*A Japanese Proverb*
+
+> Actions speak louder than words
+
+-*Various People*
 
 
 
@@ -57,11 +74,11 @@ QUOTES HERE
 
 - [x] Headings
 - [x] Styling Text
-- [ ] Quoting Text
+- [x] Quoting Text
 - [ ] Quoting Code
 - [x] External Links
 - [x] Section Links
 - [ ] Relative Links
 - [x] Ordered Lists
-- [ ] Unordered Lists
+- [x] Unordered Lists
 - [x] Task Lists
