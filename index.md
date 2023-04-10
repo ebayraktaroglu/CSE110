@@ -26,22 +26,24 @@ QUOTING CODE - HOW NOT TO DO CODE (NO COMMENTS)
 
 ### Books
 
-LIST, ITALICS, IMAGES??
+I enjoy reading fictional books.
 
 ### Music
 
-EXTERNAL LINKS AND LIST
+I love listening to music, and I've played the trumpet for around 9 years. I'm also part of an a capella group at UCSD named Comfort Tone.
 
-Music and acapella and trumpet
+## La Jolla Shores Cleanup
+
+I helped start a beach cleanup organization at UCSD with two of my friends. We organize beach cleanups every quarter at La Jolla Shores.
 
 ### Cooking/Baking
 
 I enjoy baking and cooking things. Here are four desserts I've tried making:
 
-1. [Meringues](images/Meringues)
-2. [Macarons](images/Macarons)
-3. [Oatmeal Banana Chocolate Chip Cookies](images/OatmealBananaChocolateChipCookies)
-4. [Thumbprint Cookies](images/ThumbprintCookies)
+1. [Meringues](images/Meringues.jpg)
+2. [Macarons](images/Macarons.jpg)
+3. [Oatmeal Banana Chocolate Chip Cookies](images/OatmealBananaChocolateChipCookies.jpg)
+4. [Thumbprint Cookies](images/ThumbprintCookies.jpg)
 
 
 
