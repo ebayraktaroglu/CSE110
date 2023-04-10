@@ -3,11 +3,10 @@
 
 ## Jump To
 
-### [About Me](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#about-me)
+### [About Me](https://ebayraktaroglu.github.io/CSE110/#about-me-1)
+### [For Fun Things](https://ebayraktaroglu.github.io/CSE110/#for-fun-things-1)
 
-### [For Fun Things](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#for-fun-things-1)
-
-### [Lab 1 Task List](https://github.com/ebayraktaroglu/CSE110/blob/favorite-programming-language/index.md#lab-1-task-list-1)
+### [Lab 1 Task List](https://ebayraktaroglu.github.io/CSE110/#lab-1-task-list-1)
 
 ## About Me
 
