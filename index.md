@@ -32,7 +32,7 @@ I enjoy reading fictional books.
 
 I love listening to music, and I've played the trumpet for around 9 years. I'm also part of an a capella group at UCSD named Comfort Tone.
 
-## La Jolla Shores Cleanup
+### La Jolla Shores Cleanup
 
 I helped start a beach cleanup organization at UCSD with two of my friends. We organize beach cleanups every quarter at La Jolla Shores.
 
