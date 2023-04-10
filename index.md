@@ -22,7 +22,23 @@
 
 ### Programming
 
-QUOTING CODE - HOW NOT TO DO CODE (NO COMMENTS)
+I've been programming for around 5 years. I first took AP Computer Science Principles in my sophomore year of high school, and I enjoyed it. I then joined an organization called the League of Amazing Programmers and learned Java. I am majoring in computer science at UCSD. I know Java, some Python, and some C and C++ (from classes I've taken at UCSD.
+
+Last summer, I tried to make a program that takes a story or a script of a movie and creates text similar to it by counting how many occurences of each word was after each word and using those counts as probabilities to choose the next word (basically like the suggestions that pop up when you're typing on a phone). Other than creating hilarious sentences, it was also a great example of why you need to put comments in your code. This is a portion of my program, and I have no idea what I was doing here:
+
+```
+WordNode target = null;
+boolean b = false;
+for(WordNode key: words){
+	if(key.word.equals(nextWord)){
+		target = key;
+		b = true;
+		break;
+	}
+}
+```
+
+I don't remember what the ```boolean b``` or the the ``WordNode target`` are supposed to be. If I had put comments explaining, I'm sure it would be easier to understand.
 
 ### Books
 
@@ -84,7 +100,7 @@ Here are three fun puns:
 - [x] Headings
 - [x] Styling Text
 - [x] Quoting Text
-- [ ] Quoting Code
+- [x] Quoting Code
 - [x] External Links
 - [x] Section Links
 - [x] Relative Links
