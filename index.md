@@ -36,7 +36,14 @@ Music and acapella and trumpet
 
 ### Cooking/Baking
 
-EXTERNAL LINKS??? RELATIVE LINKS??
+I enjoy baking and cooking things. Here are four desserts I've tried making:
+
+1. [Meringues](images/Meringues)
+2. [Macarons](images/Macarons)
+3. [Oatmeal Banana Chocolate Chip Cookies](images/OatmealBananaChocolateChipCookies)
+4. [Thumbprint Cookies](images/ThumbprintCookies)
+
+
 
 ## For Fun Things
 
@@ -78,7 +85,7 @@ Here are three fun puns:
 - [ ] Quoting Code
 - [x] External Links
 - [x] Section Links
-- [ ] Relative Links
+- [x] Relative Links
 - [x] Ordered Lists
 - [x] Unordered Lists
 - [x] Task Lists
